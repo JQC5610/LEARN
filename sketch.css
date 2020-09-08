@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: #000000;
+}
+
+#c {
+  
+    background: url('images/yo-sea - late night.jpeg') no-repeat center center fixed;
+    
+}
+
+.file {
+    
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px solid #fff;
+    letter-spacing: 0.01em;
+    color: #fff;
+    cursor: pointer;
+    transition: opacity .4s;
+    z-index: 2;
+}
+
+input {
+    display: none;
+}
