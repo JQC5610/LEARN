@@ -1,8 +1,8 @@
 
 
 var windowW = window.innerWidth, windowH = Math.max(600, window.innerHeight);
-var body = document.body;
-body.classList.add("color");
+
+
 
 
 
